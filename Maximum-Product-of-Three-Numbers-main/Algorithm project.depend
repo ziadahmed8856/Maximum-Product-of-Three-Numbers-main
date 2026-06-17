@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1778099997 source:g:\2 sec cs 2nd term\algo\algorithm project\iterative.cpp
+	<iostream>
+	<vector>
+	<climits>
+
+1778704154 source:g:\2 sec cs 2nd term\algo\algorithm project\main.cpp
+	<iostream>
+	<vector>
+	<climits>
+
